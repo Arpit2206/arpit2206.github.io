@@ -40,7 +40,7 @@ var sites = {
 		"RoosterTeeth FIRST": "https://fun.haus"
 	},
 	"Uni": {
-		"Piazza": "https://piazza.com/class",
+		"Blackboard": "https://mycourses.purdue.edu/",
 		"Canvas": "https://umich.instructure.com/login",
 		"Gradescope": "https://www.gradescope.com/",
 		"EECS Gitlab": "https://gitlab.eecs.umich.edu/",
