@@ -39,10 +39,10 @@ var sites = {
 		"KissAnime": "https://kissanime.ac/",
 		"RoosterTeeth FIRST": "https://fun.haus"
 	},
-	"Uni": {
+	"Purdue": {
 		"Blackboard": "https://mycourses.purdue.edu/",
-		"Canvas": "https://umich.instructure.com/login",
-		"Gradescope": "https://www.gradescope.com/",
+		"MyPurdue": "https://umich.instructure.com/login",
+		"Email": "https://www.gradescope.com/",
 		"EECS Gitlab": "https://gitlab.eecs.umich.edu/",
 		"Wolverine Access": "https://wolverineaccess.umich.edu"
 	},
